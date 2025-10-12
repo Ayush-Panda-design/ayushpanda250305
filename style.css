@@ -116,7 +116,7 @@ a {
     transition: color var(--transition-normal);
 }
 
-/* =========== ADVANCED BUTTON STYLES =========== */
+/*  ADVANCED BUTTON STYLES */
 button,
 .btn {
     cursor: pointer;
@@ -159,7 +159,7 @@ button:active {
     transform: translateY(0) scale(0.98);
 }
 
-/* =========== HEADER WITH GLASSMORPHISM =========== */
+/*HEADER WITH GLASSMORPHISM */
 header {
     position: sticky;
     top: 0;
@@ -236,7 +236,7 @@ header nav a:hover::after {
     width: 100%;
 }
 
-/* =========== HERO SECTION WITH PARALLAX & 3D =========== */
+/*  HERO SECTION WITH PARALLAX & 3D  */
 #hero {
     position: relative;
     display: flex;
